@@ -1,0 +1,213 @@
+{
+  "accounts": [
+    {
+      "name": "sandrine",
+      "email": "sandrine@getbam.io",
+      "balance": "010102050112",
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "anna",
+      "email": "anna@test.com",
+      "balance": "02",
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "jeanne",
+      "email": "jeanne@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "charles",
+      "email": "charles@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "juju",
+      "email": "juju@getbam.io",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "arti",
+      "email": "arti@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "cecile",
+      "email": "cecile@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "papate",
+      "email": "papate@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "patrick",
+      "email": "patrick@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "helene",
+      "email": "helene@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "armand",
+      "email": "armand@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "annie",
+      "email": "annie@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "zoran",
+      "email": "zoran@test.com",
+      "balance": "010",
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "Sandrine Cina",
+      "email": "sandrinecina@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-27T16:06:54.342Z"
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "email": "paul@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-27T18:10:33.106Z"
+        }
+      ]
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-27T18:41:32.654Z"
+        }
+      ]
+    },
+    {
+      "name": "Oussama",
+      "email": "oussama@test.com",
+      "balance": 8,
+      "password": "oussama",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-29T20:14:14.028Z"
+        },
+        {
+          "action": "deposit",
+          "amount": 10,
+          "timestamp": "2019-01-29T21:09:50.051Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": 1,
+          "timestamp": "2019-01-29T21:11:43.238Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": 1,
+          "timestamp": "2019-01-29T21:13:43.241Z"
+        }
+      ]
+    },
+    {
+      "name": "Rupo",
+      "email": "rupo@test.com",
+      "balance": -19500,
+      "password": "1234",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-29T21:20:16.341Z"
+        },
+        {
+          "action": "deposit",
+          "amount": 1000,
+          "timestamp": "2019-01-29T21:20:36.465Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": 500,
+          "timestamp": "2019-01-29T21:20:47.761Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": 20000,
+          "timestamp": "2019-01-29T21:35:43.599Z"
+        }
+      ]
+    },
+    {
+      "name": "rupu",
+      "email": "rupu@test.com",
+      "balance": 100,
+      "password": "1234",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-29T21:39:59.389Z"
+        },
+        {
+          "action": "deposit",
+          "amount": 1000,
+          "timestamp": "2019-01-29T21:40:05.099Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": 900,
+          "timestamp": "2019-01-29T21:40:31.669Z"
+        }
+      ]
+    }
+  ]
+}
